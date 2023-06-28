@@ -1,9 +1,9 @@
-[![MasterHead](banner(3).png)](https://avadecer.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/4fe92a95746151.5e9ecde69899c.gif)](https://avadecer.io)
 <h1 align="center">Hi 👋, I'm Ann Vergie Adecer</h1>
 <h3 align="center">A computer engineering student from Philippines</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif">
-
+<br> <br>
 - 🌱 I’m currently learning **javascript, arduino programming, agile methodologies, API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avadecer](https://github.com/avadecer)
