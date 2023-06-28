@@ -1,4 +1,3 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/4fe92a95746151.5e9ecde69899c.gif)](https://avadecer.io)
 <h1 align="center">Hi 👋, I'm Ann Vergie Adecer</h1>
 <h3 align="center">A computer engineering student from Philippines</h3>
 
